@@ -1,2 +1,1 @@
-# Locus
-A python project that takes in country as the input, processes the data to give more info. Also displays the address of places.
+This is a beginner level Python project done by me during the 1st semester.
